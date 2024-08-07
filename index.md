@@ -276,4 +276,4 @@ La brochure [RESOLU](https://deslivresencommuns.org/post/resolu/) éditée par D
         <a href="https://paheko.cloud/">Vers le site</a>
       </div>
     </div>
-  </article>
+  </article> 
